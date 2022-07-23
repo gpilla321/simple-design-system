@@ -1,0 +1,10 @@
+body {
+  padding: 1em;
+  width: 100%;
+  text-align: center;
+}
+
+.App {
+  max-width: 1200px;
+  margin-inline: auto;
+}
